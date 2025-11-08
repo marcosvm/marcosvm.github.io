@@ -1,6 +1,6 @@
 # Writeups
 
-Technical articles and documentation about the interesting projects.
+Technical articles and documentation about interesting projects.
 
 ## Articles
 
