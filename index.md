@@ -1,6 +1,6 @@
 # Writeups
 
-Technical articles and documentation about the orc project.
+Technical articles and documentation about the interesting projects.
 
 ## Articles
 
